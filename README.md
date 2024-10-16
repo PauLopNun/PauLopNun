@@ -14,7 +14,7 @@ I'm Pau, a student passionate about learning and improving my skills every day. 
 
 ## 🎖️ My Holopin Awards
 
-[![Holopin Badges](https://www.holopin.io/@paulopnun)](https://www.holopin.io/@paulopnun)
+[![Holopin Badges](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
 
 ---
 
