@@ -14,8 +14,8 @@ I'm Pau, a student passionate about learning and improving my skills every day. 
 
 ## 🎖️ My Holopin Awards
 
-[![Holopin Badges](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
-
+[![HacktoberFest 2024](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
+[![Early Bird Pegasaurus](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)
 ---
 
 ## 📫 How to Reach Me
