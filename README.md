@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pau!
 
-<!--
-**PauLopNun/PauLopNun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 A Student Exploring the World of Programming
+I'm Pau, a student passionate about learning and improving my skills every day. My goal is to become a **future Software Developer**. I enjoy working on new projects, exploring different technologies, and growing my knowledge in the field of programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Languages**: Java, Html, SQL... (Leaning) 
+- **Tools**: Visual Studio Code, GitHub, Flutter, Kotlin-Native...
+- **Learning**: Mobile and Desktop App Development, SQL Databases, AI-powered tools...
+
+---
+
+## 🎖️ My Holopin Awards
+
+[![Holopin Badges](https://www.holopin.io/@paulopnun)](https://www.holopin.io/@paulopnun)
+
+---
+
+## 📫 How to Reach Me
+- Email: paulopeznunez@gmail.com
+
+---
+
+> "Keep learning and improving—success is in the journey, not the destination."
