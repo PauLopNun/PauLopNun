@@ -6,7 +6,7 @@ I'm Pau, a student passionate about learning and improving my skills every day. 
 
 
 ## 🚀 Skills & Technologies
-- **Languages**: Java, Html, SQL... (Learning) 
+- **Languages**: Python, Java, Html, CSS, SQL... (Learning) 
 - **Tools**: Visual Studio Code, GitHub, Flutter, Kotlin-Native...
 - **Learning**: Mobile and Desktop App Development, SQL Databases, AI-powered tools...
 
