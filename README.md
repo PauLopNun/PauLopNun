@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Pau!
 
 ### 🌱 A Student Exploring the World of Programming
-I'm Pau, a student passionate about learning and improving my skills every day. My goal is to become a **future Software Developer**. I enjoy working on new projects, exploring different technologies, and growing my knowledge in the field of programming.
+I'm Pau, a student passionate about learning and improving my skills every day. My goal is to become a **Software Developer**. I enjoy working on new projects, exploring different technologies, and growing my knowledge in the field of programming.
 
 
 
