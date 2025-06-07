@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pau López
+# 👋 Hi, I'm Pau 
 
 ### 💻 Aspiring Software Developer | Exploring Tech to Build Meaningful Experiences
 
