@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/LlIcrvM.png) 
+![Banner](https://i.imgur.com/uNimY6q.png) 
 
 # 👋 Hi, I'm Pau López
 
@@ -60,7 +60,7 @@ I'm Pau, a student in **Multi-Platform Application Development** with a passion 
 ## 📫 How to Reach Me
 
 - 📧 Email: paulopeznunez@gmail.com  
-- 💼 LinkedIn: *[https://www.linkedin.com/in/paulopnun/]*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/paulopnun)*
 
 ---
 
