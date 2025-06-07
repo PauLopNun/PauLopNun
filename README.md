@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Pau López
 
-### 📱 Inspiring App Developer | Exploring Tech to Build Meaningful Experiences
+### 💻 Aspiring Software Developer | Exploring Tech to Build Meaningful Experiences
 
-I'm Pau, a student in **Multi-Platform Application Development** with a passion for building inspiring, useful and creative apps. I love working on personal projects, exploring modern tech, and growing as a developer day by day.
+I'm Pau, a student in **Multi-Platform Application Development** with a passion for building inspiring, useful and creative software. I love working on personal projects, exploring modern technologies, and growing as a developer day by day.
 
 > _"First, solve the problem. Then, write the code."_
 
@@ -60,7 +60,7 @@ I'm Pau, a student in **Multi-Platform Application Development** with a passion 
 ## 📫 How to Reach Me
 
 - 📧 Email: paulopeznunez@gmail.com  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/paulopnun)*
+- 💼 LinkedIn: [linkedin.com/in/paulopnun](https://www.linkedin.com/in/paulopnun)
 
 ---
 
