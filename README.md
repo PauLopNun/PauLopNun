@@ -41,6 +41,7 @@ I'm Pau, a student in **Multi-Platform Application Development** with a passion 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulopnun&repo=Newsletter-Automatizada-Render&theme=tokyonight" />
 </a>
 
+
 Sistema de newsletters automatizado alojado en Render con Node.js, Docker, MJML y PostgreSQL.
 
 ---
