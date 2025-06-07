@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/uNimY6q.png) 
-
 # 👋 Hi, I'm Pau López
 
 ### 💻 Aspiring Software Developer | Exploring Tech to Build Meaningful Experiences
