@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Developer | Exploring Tech to Build Meaningful Experiences
 
-I'm Pau, a student in **Multi-Platform Application Development** with a passion for building inspiring, useful and creative software. I love working on personal projects, exploring modern technologies, and growing as a developer day by day.
+I'm Pau, a student in **Cross-platform App Development** with a passion for building inspiring, useful and creative software. I love working on personal projects, exploring modern technologies, and growing as a developer day by day.
 
 > _"First, solve the problem. Then, write the code."_
 
