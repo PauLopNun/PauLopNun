@@ -66,5 +66,5 @@ I'm Pau, a student in **Cross-platform App Development** with a passion for buil
 
 ## ✨ Fun Facts
 
-- 📚 I'm always reading dev blogs and experimenting with new tools  
-- 🚀 My dream is to build platforms that help people learn and grow  
+- 📚 I'm always reading dev blogs and experimenting with new tools.  
+- 🚀 My dream is to create apps that are meaningful, useful, and actually help people by solving real-life problems.
