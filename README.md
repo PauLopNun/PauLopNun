@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pau 
 
-### 💻 Aspiring Software Developer | Exploring Tech to Build Meaningful Experiences
+### 💻 Software Developer Student | Exploring Tech to Build Meaningful Experiences
 
 I'm Pau, a student in **Cross-platform App Development** with a passion for building inspiring, useful and creative software. I love working on personal projects, exploring modern technologies, and growing as a developer day by day.
 
