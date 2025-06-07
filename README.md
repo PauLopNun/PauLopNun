@@ -43,7 +43,7 @@ I'm Pau, a student in **Multi-Platform Application Development** with a passion 
 
 <br>
 
-> Sistema de newsletters automatizado alojado en Render con Node.js, Docker, MJML y PostgreSQL.
+Sistema de newsletters automatizado alojado en Render con Node.js, Docker, MJML y PostgreSQL.
 
 ---
 
