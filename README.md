@@ -34,6 +34,16 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 
 ---
 
+## 🏆 Certifications & Achievements
+
+![Oracle Java Foundations](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Java Training](https://img.shields.io/badge/Oracle-Java%20Training%20%26%20Assessment-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Oracle Java Foundations** • *Earned: September 14, 2025*  
+**Oracle Java Foundations: Training and Assessment** • *Earned: September 14, 2025*
+
+---
+
 ## 💼 What I Bring to Your Team
 
 - **Cross-Platform Expertise**: Specialized in Flutter and native Android development with Kotlin
