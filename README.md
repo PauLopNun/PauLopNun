@@ -36,21 +36,23 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 
 ## 🏆 Certifications & Achievements
 
-![Oracle Java Foundations](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Java Training](https://img.shields.io/badge/Oracle-Java%20Training%20%26%20Assessment-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- ![Oracle Badge](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+  **Oracle Java Foundations** – Oracle Academy  
+  [View Certificate](https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=152239)
 
-**Oracle Java Foundations** • *Earned: September 14, 2025*  
-**Oracle Java Foundations: Training and Assessment** • *Earned: September 14, 2025*
+- ![Oracle Badge](https://img.shields.io/badge/Oracle-Java%20Training%20%26%20Assessment-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+  **Oracle Java Foundations: Training and Assessment** – Oracle Academy  
+  [View Certificate](https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726)
 
 ---
 
 ## 💼 What I Bring to Your Team
 
-- **Cross-Platform Expertise**: Specialized in Flutter and native Android development with Kotlin
-- **Full-Stack Capabilities**: End-to-end application development from database design to user interface
-- **Cloud Integration**: Experience with AWS services and modern deployment strategies
-- **Problem-Solving Mindset**: Focus on creating solutions that address real user needs
-- **Continuous Learning**: Always staying current with emerging technologies and best practices
+- **Cross-Platform Expertise**: Specialized in Flutter and native Android development with Kotlin  
+- **Full-Stack Capabilities**: End-to-end application development from database design to user interface  
+- **Cloud Integration**: Experience with AWS services and modern deployment strategies  
+- **Problem-Solving Mindset**: Focus on creating solutions that address real user needs  
+- **Continuous Learning**: Always staying current with emerging technologies and best practices  
 
 ---
 
@@ -80,9 +82,9 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 I'm actively seeking opportunities in **mobile application development** and open to discussing exciting projects or potential collaborations.
 
 - 📧 **Email**: paulopeznunez@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/paulopnun](https://www.linkedin.com/in/paulopnun)
-- 🌍 **Location**: Valencia, Spain | **Available for relocation & remote work**
-- 🗣️ **Languages**: Spanish (Native), English (Professional working proficiency)
+- 💼 **LinkedIn**: [linkedin.com/in/paulopnun](https://www.linkedin.com/in/paulopnun)  
+- 🌍 **Location**: Valencia, Spain | **Available for relocation & remote work**  
+- 🗣️ **Languages**: Spanish (Native), English (Professional working proficiency)  
 
 ---
 
