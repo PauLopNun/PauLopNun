@@ -58,6 +58,10 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 
 ## 🛠️ Featured Projects
 
+<a href="https://github.com/PauLopNun/FlowBoard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=FlowBoard&theme=tokyonight" />
+</a>  
+
 <a href="https://github.com/paulopnun/RenderMail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulopnun&repo=RenderMail&theme=tokyonight" />
 </a>  
@@ -65,6 +69,7 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 <a href="https://github.com/PauLopNun/Notably/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=Notably&theme=tokyonight" />
 </a>  
+
 
 
 ---
