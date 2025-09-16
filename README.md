@@ -58,7 +58,7 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 
 ## 🛠️ Featured Projects
 
-<a href="https://github.com/paulopnun/Newsletter-Automatizada-Render">
+<a href="https://github.com/paulopnun/RenderMail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulopnun&repo=Newsletter-Automatizada-Render&theme=tokyonight" />
 </a>
 
