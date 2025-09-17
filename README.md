@@ -18,30 +18,6 @@
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" />
-
-```kotlin
-data class Developer(
-    val name: String = "Pau López",
-    val location: String = "Valencia, Spain 🇪🇸",
-    val status: String = "Computer Science Student",
-    val role: String = "Aspiring Mobile Developer",
-    val languages: List<String> = listOf("Spanish", "English"),
-    val currentFocus: String = "Kotlin & Flutter",
-    val learning: List<String> = listOf(
-        "Kotlin Multiplatform Mobile",
-        "Jetpack Compose",
-        "Clean Architecture",
-        "Mobile Best Practices"
-    ),
-    val motto: String = "First, solve the problem. Then, write the code."
-)
-
-val pau = Developer()
-```
-
 ### 🎯 Learning Journey
 - 🔥 **Kotlin & Android** - Mastering modern Android development with Jetpack Compose
 - 🎨 **Flutter Cross-Platform** - Building beautiful apps for iOS & Android  
@@ -139,31 +115,22 @@ val pau = Developer()
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
+    <td align="center">
       <h3>🏆 Java Foundations</h3>
-      <p><strong>Oracle Academy</strong></p>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
       <a href="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=152239">
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center">
+      <h3>🎖️ Java Training</h3>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
-      <h3>🎖️ Java Training & Assessment</h3>
-      <p><strong>Oracle Academy</strong></p>
       <a href="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726">
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
-
-### 📚 Current Learning Path
-- **Kotlin Multiplatform Mobile (KMP)** - Sharing code across platforms
-- **Compose Multiplatform** - Cross-platform UI development
-- **Clean Architecture** - MVVM, MVI patterns
-- **Modern Android** - Navigation 3, Paging 3, Hilt/Koin
-- **SwiftUI Integration** - Hybrid development approaches
 
 </div>
 
@@ -184,19 +151,7 @@ val pau = Developer()
 </div>
 
 <div align="center">
-
-### 💡 What I'm Building
-```
-🎯 Learning through hands-on projects
-📱 Practicing modern mobile development
-🧪 Experimenting with new technologies  
-🤝 Collaborating on open source
-📚 Documenting my learning journey
-🚀 Preparing for professional opportunities
-```
-
-</div>
-
+  
 ---
 
 ## 🌟 Featured Projects & Learning
@@ -249,37 +204,6 @@ val pau = Developer()
 
 ---
 
-## 📱 My Development Philosophy
-
-```kotlin
-class StudentDeveloper {
-    
-    private val learningPrinciples = mapOf(
-        "curiosity" to "Always asking 'how' and 'why'",
-        "practice" to "Building projects to learn concepts",
-        "community" to "Learning from others and sharing knowledge",
-        "quality" to "Writing clean, maintainable code",
-        "growth" to "Embracing challenges and feedback"
-    )
-    
-    fun approach(): DevelopmentStrategy {
-        return DevelopmentStrategy.Builder()
-            .practiceDaily()
-            .buildRealProjects()
-            .learnFromMistakes()
-            .seekFeedback()
-            .stayCurrentWithTech()
-            .build()
-    }
-    
-    companion object {
-        const val MOTTO = "Learning by doing, one commit at a time 🚀"
-    }
-}
-```
-
----
-
 ## 🤝 Open to Opportunities
 
 <div align="center">
@@ -317,18 +241,9 @@ Opportunities: Internships, Junior roles, Collaborative projects
 Location: Valencia, Spain 🇪🇸 (Open to remote/relocation)
 Interests: Mobile development, Cross-platform solutions
 Time Zone: CET/CEST (UTC+1/+2)
-Languages: Spanish (Native) | English (Professional B2)
+Languages: Spanish (Native) | English (Professional C1)
 Available: Flexible schedule as student
 ```
-
-### 💪 What I Bring
-- **Fresh perspective** and eagerness to learn
-- **Strong foundation** in computer science principles  
-- **Hands-on experience** with modern mobile technologies
-- **Problem-solving** mindset and attention to detail
-- **Collaborative** spirit and open to feedback
-- **Passion** for creating user-focused applications
-
 </div>
 
 ---
@@ -338,39 +253,6 @@ Available: Flexible schedule as student
 <div align="center">
 
 [![Holopin Badges](https://holopin.me/paulopnun)](https://holopin.io/@paulopnun)
-
-### 🏆 Learning Achievements
-![Achievement](https://github-profile-achievement-badges.vercel.app/api/badges?username=paulopnun&theme=darkhub)
-
-</div>
-
----
-
-## 🚀 Current Learning Focus
-
-<div align="center">
-
-### 🔥 Deep Diving Into (2025)
-- **Kotlin Multiplatform 1.8+** - Stable iOS support and shared UI
-- **Jetpack Compose** - Modern declarative UI for Android
-- **Ktor 3.2.3** - Networking and API consumption
-- **SQLDelight 2.1.0** - Type-safe database operations
-- **Material Design 3** - Latest design system implementation
-
-### 📚 Next Learning Goals
-- **Advanced Architecture** - Clean Architecture, MVI pattern
-- **Testing Strategies** - Unit testing, UI testing, TDD
-- **CI/CD Pipelines** - Automated testing and deployment
-- **Performance Optimization** - App profiling and optimization
-- **Accessibility** - Making apps usable for everyone
-
-### 🎯 2025 Objectives
-- [ ] Complete advanced Kotlin Multiplatform course
-- [ ] Build and publish first KMP app to stores
-- [ ] Contribute to open source KMP projects
-- [ ] Secure mobile development internship
-- [ ] Present at local developer meetup
-- [ ] Mentor other students learning mobile development
 
 </div>
 
