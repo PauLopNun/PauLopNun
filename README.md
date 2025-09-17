@@ -58,20 +58,17 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 
 ## 🛠️ Featured Projects
 
-### 📋 [FlowBoard](https://github.com/PauLopNun/FlowBoard)
-**Modern Kanban board application for project management**  
-A cross-platform task management solution built with Flutter, featuring real-time collaboration and intuitive drag-and-drop functionality.  
-`Flutter` `Dart` `Cross-platform` `Project Management`
+<a href="https://github.com/PauLopNun/FlowBoard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=FlowBoard&theme=tokyonight" />
+</a>  
 
-### 📧 [RenderMail](https://github.com/paulopnun/RenderMail)  
-**Email service solution with cloud deployment**  
-Scalable email management system built with modern backend technologies and deployed on cloud infrastructure.  
-`Node.js` `Python` `AWS` `Cloud Computing`
+<a href="https://github.com/paulopnun/RenderMail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulopnun&repo=RenderMail&theme=tokyonight" />
+</a>  
 
-### 📝 [Notably](https://github.com/PauLopNun/Notably)
-**Smart note-taking application**  
-Clean and efficient note-taking app designed for productivity, featuring organized content management and cross-device synchronization.  
-`Mobile Development` `User Experience` `Productivity`  
+<a href="https://github.com/PauLopNun/Notably/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=Notably&theme=tokyonight" />
+</a>  
 
 ---
 
