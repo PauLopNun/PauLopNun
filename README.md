@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Pau&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Kotlin%20%7C%20Flutter%20%7C%20Mobile%20Expert&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Pau&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Kotlin%20%7C%20Flutter%20%7C%20Mobile%20Developer&descAlignY=51&descAlign=62)
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Kotlin+%26+Android+Expert+%F0%9F%93%B1;Cross-Platform+Mobile+Developer;Building+Scalable+Solutions+%F0%9F%9A%80;5%2B+Years+of+Mobile+Experience;Always+Learning+%26+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Kotlin+%26+Android+Enthusiast+%F0%9F%93%B1;Cross-Platform+Mobile+Developer;Learning+%26+Building+Daily+%F0%9F%9A%80;Open+to+Opportunities" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,14 +26,15 @@
 data class Developer(
     val name: String = "Pau López",
     val location: String = "Valencia, Spain 🇪🇸",
-    val role: String = "Mobile Application Developer",
+    val status: String = "Computer Science Student",
+    val role: String = "Aspiring Mobile Developer",
     val languages: List<String> = listOf("Spanish", "English"),
     val currentFocus: String = "Kotlin & Flutter",
-    val passions: List<String> = listOf(
-        "Mobile Development",
-        "Cross-Platform Solutions", 
+    val learning: List<String> = listOf(
+        "Kotlin Multiplatform Mobile",
+        "Jetpack Compose",
         "Clean Architecture",
-        "Problem Solving"
+        "Mobile Best Practices"
     ),
     val motto: String = "First, solve the problem. Then, write the code."
 )
@@ -41,12 +42,12 @@ data class Developer(
 val pau = Developer()
 ```
 
-### 🎯 Professional Focus
-- 🔥 **Kotlin Native Android** - Advanced expertise in modern Android development
-- 🎨 **Flutter Cross-Platform** - Building beautiful, performant apps for iOS & Android  
-- 🏗️ **Clean Architecture** - MVVM, MVI, and modular design patterns
-- ☁️ **Backend Integration** - RESTful APIs, GraphQL, and cloud services
-- 📱 **UI/UX Excellence** - Material Design 3, Custom animations, Responsive layouts
+### 🎯 Learning Journey
+- 🔥 **Kotlin & Android** - Mastering modern Android development with Jetpack Compose
+- 🎨 **Flutter Cross-Platform** - Building beautiful apps for iOS & Android  
+- 🏗️ **Clean Architecture** - Learning MVVM, MVI, and best practices
+- ☁️ **Backend Integration** - Working with REST APIs and cloud services
+- 📱 **UI/UX Excellence** - Material Design 3 and responsive layouts
 
 ---
 
@@ -56,32 +57,39 @@ val pau = Developer()
 <summary><b>📱 Mobile Development</b></summary>
 <br>
 
-**Primary Technologies**
+**Currently Learning & Practicing**
 ```
-🥇 Kotlin          ████████████████████████████████████████ 95%
-🥈 Flutter/Dart     ████████████████████████████████████░░░░ 90%  
-🥉 Java            ████████████████████████████████░░░░░░░░ 80%
+🥇 Kotlin          ████████████████████████████████░░░░░░░░ 80%
+🥈 Flutter/Dart     ████████████████████████████░░░░░░░░░░░░ 70%  
+🥉 Java            ████████████████████████░░░░░░░░░░░░░░░░ 60%
 ```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio&theme=dark" />
 </p>
 
+**Modern KMP Stack (Learning)**
+- **Compose Multiplatform 1.8.0** - Stable cross-platform UI
+- **Kotlin Multiplatform Mobile** - Shared business logic
+- **Jetpack Compose** - Modern Android UI toolkit
+- **Material Design 3** - Latest design system
+
 </details>
 
 <details open>
-<summary><b>🌐 Backend & Cloud</b></summary>
+<summary><b>🌐 Backend & Data</b></summary>
 <br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,docker,aws,postgresql,mysql,firebase&theme=dark" />
 </p>
 
-**Technologies**
-- **Backend**: Python, Node.js, REST APIs, GraphQL
-- **Cloud**: AWS (EC2, S3, Lambda), Firebase, Render
-- **Databases**: PostgreSQL, MySQL, SQLite, Room, Hive
-- **DevOps**: Docker, CI/CD, GitHub Actions
+**Technologies & Libraries**
+- **Networking**: Ktor 3.2.3, REST APIs, JSON serialization
+- **Database**: SQLDelight 2.1.0, Room, Firebase Firestore
+- **Dependency Injection**: Koin for KMP
+- **Cloud**: AWS basics, Firebase, Render deployment
+- **Backend**: Python, Node.js foundations
 
 </details>
 
@@ -90,42 +98,42 @@ val pau = Developer()
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,gradle&theme=dark" />
 </p>
 
-**Workflow**
+**Development Environment**
 - **IDEs**: Android Studio, VS Code, IntelliJ IDEA
-- **Version Control**: Git, GitHub, GitLab
-- **Design**: Figma, Adobe XD
-- **Testing**: JUnit, Espresso, Flutter Test, Mockito
-- **Monitoring**: Firebase Crashlytics, Analytics
+- **Version Control**: Git, GitHub workflow
+- **Build Tools**: Gradle, Gradle Version Catalogs
+- **Design**: Figma for UI/UX mockups
+- **Libraries**: [Klibs.io](https://klibs.io) for KMP library discovery
 
 </details>
 
 ---
 
-## 🏆 GitHub Analytics & Achievements
+## 🏆 GitHub Analytics & Learning Progress
 
 <div align="center">
 
 ### 📊 Contribution Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopnun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopnun&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopnun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopnun&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=667EEA"/>
 
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulopnun&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" />
+### 🔥 Coding Consistency
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulopnun&theme=tokyonight&hide_border=true&stroke=667EEA&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" />
 
 ### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulopnun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulopnun&theme=tokyo-night&hide_border=true&color=667EEA&line=667EEA&point=FFFFFF" />
 
-### 🏅 Achievement Showcase
+### 🏅 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulopnun&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📜 Professional Certifications
+## 📜 Certifications & Learning
 
 <div align="center">
 
@@ -150,146 +158,142 @@ val pau = Developer()
   </tr>
 </table>
 
+### 📚 Current Learning Path
+- **Kotlin Multiplatform Mobile (KMP)** - Sharing code across platforms
+- **Compose Multiplatform** - Cross-platform UI development
+- **Clean Architecture** - MVVM, MVI patterns
+- **Modern Android** - Navigation 3, Paging 3, Hilt/Koin
+- **SwiftUI Integration** - Hybrid development approaches
+
 </div>
 
 ---
 
-## 💼 Professional Value Proposition
+## 💼 Skills & Aspirations
 
 <div align="center">
 
-| 🎯 **Core Expertise** | 📱 **Specializations** | 🚀 **Advanced Skills** |
+| 🎯 **Focused Learning** | 📱 **Building Experience** | 🚀 **Next Goals** |
 |:-:|:-:|:-:|
-| **Kotlin Native Android** | **MVVM Architecture** | **Jetpack Compose** |
-| **Flutter Cross-Platform** | **Material Design 3** | **Custom Animations** |
-| **Clean Code Architecture** | **State Management** | **Performance Optimization** |
-| **RESTful API Integration** | **Local Databases** | **CI/CD Pipelines** |
-| **AWS Cloud Services** | **Firebase Backend** | **Automated Testing** |
+| **Kotlin Native Android** | **Personal Projects** | **Professional Internships** |
+| **Compose Multiplatform** | **Open Source Contributions** | **Team Collaboration** |
+| **Mobile Architecture** | **UI/UX Implementation** | **Production Apps** |
+| **API Integration** | **Database Management** | **Code Reviews** |
+| **Testing Strategies** | **Version Control** | **Mentorship** |
 
 </div>
 
 <div align="center">
 
-### 💡 What I Deliver
+### 💡 What I'm Building
 ```
-✨ Pixel-perfect UI implementations
-🚀 High-performance mobile applications  
-🔧 Scalable and maintainable codebases
-🎯 User-centered design solutions
-☁️ Cloud-integrated mobile experiences
-📈 Data-driven development decisions
+🎯 Learning through hands-on projects
+📱 Practicing modern mobile development
+🧪 Experimenting with new technologies  
+🤝 Collaborating on open source
+📚 Documenting my learning journey
+🚀 Preparing for professional opportunities
 ```
 
 </div>
 
 ---
 
-## 🌟 Featured Project Showcase
+## 🌟 Featured Projects & Learning
 
 <div align="center">
 
-### 🏗️ FlowBoard - Advanced Project Management
+### 🏗️ FlowBoard - Project Management App
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=material-design&logoColor=white)
-![Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning%20Project-4CAF50?style=flat-square)
 
-**🎯 Modern Kanban board for agile project management**
+**🎯 Modern Kanban board for project management**
 
-*Real-time collaboration • Drag-and-drop interface • Team synchronization • Custom workflows*
+*Learning: Clean Architecture • State Management • Local Storage • UI/UX Design*
 
 <a href="https://github.com/PauLopNun/FlowBoard">
-  <img src="https://img.shields.io/badge/🔗%20Explore%20Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📱%20Live%20Demo-00C7B7?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔗%20View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
-### 📧 RenderMail - Enterprise Email Solution
+### 📧 RenderMail - Backend Learning Project
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**☁️ Scalable email management system with cloud deployment**
+**☁️ Email management system with cloud deployment**
 
-*Microservices architecture • Auto-scaling • High availability • API-first design*
+*Learning: REST APIs • Cloud deployment • Docker • Backend architecture*
 
 <a href="https://github.com/paulopnun/RenderMail">
   <img src="https://img.shields.io/badge/🔗%20View%20Backend-667eea?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🌐%20API%20Docs-FF6B35?style=for-the-badge&logo=swagger&logoColor=white" />
-</a>
 
 ---
 
-### 📝 Notably - Smart Note Management
-![Cross Platform](https://img.shields.io/badge/Cross%20Platform-4CAF50?style=flat-square)
-![Offline First](https://img.shields.io/badge/Offline%20First-FF9800?style=flat-square)
-![Sync](https://img.shields.io/badge/Real%20Time%20Sync-9C27B0?style=flat-square)
+### 📝 Notably - Note Management App
+![Mobile](https://img.shields.io/badge/Mobile%20Development-4CAF50?style=flat-square)
+![Learning](https://img.shields.io/badge/Student%20Project-FF9800?style=flat-square)
 
-**✍️ Intelligent note-taking with advanced organization**
+**✍️ Note-taking app with modern mobile practices**
 
-*Markdown support • Cross-device sync • Offline-first • Smart categorization*
+*Learning: Local databases • Cross-platform development • Material Design*
 
 <a href="https://github.com/PauLopNun/Notably">
-  <img src="https://img.shields.io/badge/📖%20Documentation-667eea?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📖%20View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📱 Mobile Development Philosophy
-
-<div align="center">
+## 📱 My Development Philosophy
 
 ```kotlin
-class MobileDeveloper {
+class StudentDeveloper {
     
-    private val coreValues = mapOf(
-        "user_experience" to "Always prioritize the end user",
-        "clean_code" to "Code should be readable and maintainable", 
-        "performance" to "Every millisecond matters in mobile",
-        "accessibility" to "Technology should be inclusive",
-        "innovation" to "Embrace new technologies responsibly"
+    private val learningPrinciples = mapOf(
+        "curiosity" to "Always asking 'how' and 'why'",
+        "practice" to "Building projects to learn concepts",
+        "community" to "Learning from others and sharing knowledge",
+        "quality" to "Writing clean, maintainable code",
+        "growth" to "Embracing challenges and feedback"
     )
     
-    fun buildApp(): App {
-        return App.Builder()
-            .withUserCenteredDesign()
-            .followCleanArchitecture() 
-            .optimizePerformance()
-            .ensureAccessibility()
-            .addValue()
+    fun approach(): DevelopmentStrategy {
+        return DevelopmentStrategy.Builder()
+            .practiceDaily()
+            .buildRealProjects()
+            .learnFromMistakes()
+            .seekFeedback()
+            .stayCurrentWithTech()
             .build()
     }
+    
+    companion object {
+        const val MOTTO = "Learning by doing, one commit at a time 🚀"
+    }
 }
-
-// "Building the future of mobile, one line of code at a time 🚀"
 ```
-
-</div>
 
 ---
 
-## 🤝 Professional Network & Collaboration
+## 🤝 Open to Opportunities
 
 <div align="center">
 
-### 🌟 Open for Opportunities
+### 🌟 Seeking Growth Opportunities
 
-I'm actively seeking **Senior Mobile Developer** positions and exciting **freelance projects**. Let's build something amazing together!
+I'm a passionate Computer Science student looking for **internships**, **entry-level positions**, and **collaborative projects** in mobile development!
 
 <table>
   <tr>
     <td align="center">
       <a href="mailto:paulopeznunez@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        <br><strong>Direct Contact</strong>
+        <br><strong>Let's Connect</strong>
       </a>
     </td>
     <td align="center">
@@ -307,15 +311,23 @@ I'm actively seeking **Senior Mobile Developer** positions and exciting **freela
   </tr>
 </table>
 
-### 🌍 Work Preferences
+### 🎯 What I'm Looking For
 ```yaml
-Location: Valencia, Spain 🇪🇸
-Remote Work: ✅ Fully Remote Ready
-Relocation: ✅ Open to EU/International
+Opportunities: Internships, Junior roles, Collaborative projects
+Location: Valencia, Spain 🇪🇸 (Open to remote/relocation)
+Interests: Mobile development, Cross-platform solutions
 Time Zone: CET/CEST (UTC+1/+2)
-Languages: Spanish (Native) | English (Professional)
-Availability: Open to new opportunities
+Languages: Spanish (Native) | English (Professional B2)
+Available: Flexible schedule as student
 ```
+
+### 💪 What I Bring
+- **Fresh perspective** and eagerness to learn
+- **Strong foundation** in computer science principles  
+- **Hands-on experience** with modern mobile technologies
+- **Problem-solving** mindset and attention to detail
+- **Collaborative** spirit and open to feedback
+- **Passion** for creating user-focused applications
 
 </div>
 
@@ -327,56 +339,38 @@ Availability: Open to new opportunities
 
 [![Holopin Badges](https://holopin.me/paulopnun)](https://holopin.io/@paulopnun)
 
-### 🏆 GitHub Achievements
+### 🏆 Learning Achievements
 ![Achievement](https://github-profile-achievement-badges.vercel.app/api/badges?username=paulopnun&theme=darkhub)
 
 </div>
 
 ---
 
-## 📊 Development Metrics & Activity
+## 🚀 Current Learning Focus
 
 <div align="center">
 
-### ⏰ Coding Time Distribution
-```
-🌅 Morning     ████████████████████████████░░░░░░░░ 70%
-🌞 Afternoon   ████████████████████████████████████ 90%  
-🌆 Evening     ██████████████████████░░░░░░░░░░░░░░░ 60%
-🌙 Night       ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 30%
-```
+### 🔥 Deep Diving Into (2025)
+- **Kotlin Multiplatform 1.8+** - Stable iOS support and shared UI
+- **Jetpack Compose** - Modern declarative UI for Android
+- **Ktor 3.2.3** - Networking and API consumption
+- **SQLDelight 2.1.0** - Type-safe database operations
+- **Material Design 3** - Latest design system implementation
 
-### 📅 Weekly Contribution Pattern
-```
-Monday    ████████████████████████████████████████ 100%
-Tuesday   ██████████████████████████████████░░░░░░  85%
-Wednesday ████████████████████████████████████████ 100%
-Thursday  ████████████████████████████████░░░░░░░░  80%
-Friday    ██████████████████████████████░░░░░░░░░░  75%
-Saturday  ████████████████░░░░░░░░░░░░░░░░░░░░░░░░  40%
-Sunday    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
-```
+### 📚 Next Learning Goals
+- **Advanced Architecture** - Clean Architecture, MVI pattern
+- **Testing Strategies** - Unit testing, UI testing, TDD
+- **CI/CD Pipelines** - Automated testing and deployment
+- **Performance Optimization** - App profiling and optimization
+- **Accessibility** - Making apps usable for everyone
 
-</div>
-
----
-
-## 🚀 Current Tech Exploration
-
-<div align="center">
-
-### 🔥 Currently Mastering
-- **Jetpack Compose** - Modern Android UI toolkit
-- **Kotlin Multiplatform** - Sharing code across platforms  
-- **Ktor** - Kotlin-first HTTP client and server
-- **Coroutines & Flow** - Advanced async programming
-- **Compose Multiplatform** - UI framework for KMP
-
-### 📚 Learning Queue
-- **WebAssembly** - High-performance web applications
-- **Machine Learning** - TensorFlow Lite integration
-- **AR/VR Development** - ARCore and immersive experiences
-- **Blockchain** - Web3 and cryptocurrency applications
+### 🎯 2025 Objectives
+- [ ] Complete advanced Kotlin Multiplatform course
+- [ ] Build and publish first KMP app to stores
+- [ ] Contribute to open source KMP projects
+- [ ] Secure mobile development internship
+- [ ] Present at local developer meetup
+- [ ] Mentor other students learning mobile development
 
 </div>
 
@@ -384,16 +378,18 @@ Sunday    ████████████░░░░░░░░░░░�
 
 <div align="center">
 
-### 💬 Let's Connect and Build Something Amazing!
+### 💬 Let's Learn and Build Together!
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulopnun&color=667eea&style=for-the-badge&label=Profile+Views)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202025-667eea?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Growing-667eea?style=for-the-badge)
 
 *"The best mobile apps are born from understanding user needs, not just technical capabilities"*
+
+**🎓 Computer Science Student • 📱 Mobile Development Enthusiast • 🚀 Future Mobile Developer**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
