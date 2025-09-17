@@ -17,15 +17,6 @@
 
 ---
 
-### 🎯 Learning Journey
-- 🔥 **Kotlin & Android** - Mastering modern Android development with Jetpack Compose
-- 🎨 **Flutter Cross-Platform** - Building beautiful apps for iOS & Android  
-- 🏗️ **Clean Architecture** - Learning MVVM, MVI, and best practices
-- ☁️ **Backend Integration** - Working with REST APIs and cloud services
-- 📱 **UI/UX Excellence** - Material Design 3 and responsive layouts
-
----
-
 ## 🛠️ Technology Stack
 
 <details open>
@@ -149,13 +140,12 @@
 
 </div>
 
-<div align="center">
   
 ---
 
 ## 🌟 Featured Projects & Learning
 
-<div align="center">
+
 
 ### 🏗️ FlowBoard - Project Management App
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -204,10 +194,6 @@
 ---
 
 ## 🤝 Open to Opportunities
-
-<div align="center">
-
-### 🌟 Seeking Growth Opportunities
 
 I'm a passionate Computer Science student looking for **internships**, **entry-level positions**, and **collaborative projects** in mobile development!
 
