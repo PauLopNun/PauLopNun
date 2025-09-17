@@ -10,7 +10,6 @@
 
 <div align="center">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=paulopnun.paulopnun)](https://github.com/paulopnun)
 [![GitHub followers](https://img.shields.io/github/followers/paulopnun?logo=GitHub&style=for-the-badge)](https://github.com/paulopnun)
 [![GitHub stars](https://img.shields.io/github/stars/paulopnun?logo=GitHub&style=for-the-badge)](https://github.com/paulopnun)
 
