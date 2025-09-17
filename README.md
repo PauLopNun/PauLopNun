@@ -59,25 +59,23 @@ I'm a passionate **Mobile Application Developer** specializing in cross-platform
 ## 🛠️ Featured Projects
 
 <a href="https://github.com/PauLopNun/FlowBoard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=FlowBoard&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=FlowBoard&theme=tokyonight&cache_seconds=1800&v=3" />
 </a>  
 
 <a href="https://github.com/paulopnun/RenderMail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulopnun&repo=RenderMail&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulopnun&repo=RenderMail&theme=tokyonight&cache_seconds=1800&v=3" />
 </a>  
 
 <a href="https://github.com/PauLopNun/Notably/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=Notably&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauLopNun&repo=Notably&theme=tokyonight&cache_seconds=1800&v=3" />
 </a>  
-
-
 
 ---
 
 ## 📊 GitHub Activity
 
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopnun&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopnun&layout=compact&theme=tokyonight)
+![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopnun&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopnun&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
