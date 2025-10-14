@@ -217,6 +217,28 @@ I'm a passionate Computer Science student looking for **internships**, **entry-l
   </tr>
 </table>
 
+## A Fragment of Code I'm Proud Of 💡
+
+One piece of code that I'm particularly proud of in FlowBoard is how I handle **dynamic colors for task cards** using Jetpack Compose and Material3:
+
+```kotlin
+colors = CardDefaults.cardColors(
+    containerColor = when {
+        task.isCompleted -> MaterialTheme.colorScheme.surfaceVariant
+        isOverdue -> MaterialTheme.colorScheme.errorContainer
+        else -> MaterialTheme.colorScheme.surface
+    }
+)
+```
+
+I chose this approach because I wanted the UI to be **both functional and visually intuitive**.  
+
+- **Completed tasks** appear in a subtle color (`surfaceVariant`) to indicate they are done.  
+- **Overdue tasks** are highlighted with an alert color (`errorContainer`) so users notice them immediately.  
+- **Pending tasks** keep the default background (`surface`) for consistency and clarity.
+
+This small snippet **brings life to the app**, making it easy for users to **understand the status of their tasks at a glance**. I’m proud of this because it shows how thoughtful UI design can improve usability while keeping the code clean and maintainable.
+
 ### 🎯 What I'm Looking For
 ```yaml
 Opportunities: Internships, Junior roles, Collaborative projects
