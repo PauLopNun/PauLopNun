@@ -16,7 +16,7 @@
 ## Technology Stack
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>Software Development</b></summary>
 <br>
 
 <p align="center">
@@ -70,10 +70,6 @@
 ## GitHub Analytics & Learning Progress
 
 <div align="center">
-
-### Contribution Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopnun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopnun&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=667EEA"/>
 
 ### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulopnun&theme=tokyo-night&hide_border=true&color=667EEA&line=667EEA&point=FFFFFF" />
