@@ -239,7 +239,7 @@ Available: Flexible schedule as student
 
 *"The best mobile apps are born from understanding user needs, not just technical capabilities"*
 
-**Computer Science Student • 📱 Mobile Development Enthusiast • Future Mobile Developer**
+**GFT Trainee Backend Developer**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
