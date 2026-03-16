@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Cross-Platform+Mobile+Developer;Kotlin+%26+Android+Enthusiast;Learning+%26+Building+Daily;Open+to+Opportunities" alt="Typing SVG" />
-</div>
-
-<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/paulopnun?logo=GitHub&style=for-the-badge)](https://github.com/paulopnun)
 [![GitHub stars](https://img.shields.io/github/stars/paulopnun?logo=GitHub&style=for-the-badge)](https://github.com/paulopnun)
@@ -17,18 +13,11 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <details open>
 <summary><b>📱 Mobile Development</b></summary>
 <br>
-
-**Currently Learning & Practicing**
-```
-🥇 Kotlin          ████████████████████████████████░░░░░░░░ 80%
-🥈 Flutter/Dart     ████████████████████████████░░░░░░░░░░░░ 70%  
-🥉 Java            ████████████████████████░░░░░░░░░░░░░░░░ 60%
-```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio&theme=dark" />
@@ -43,7 +32,7 @@
 </details>
 
 <details open>
-<summary><b>🌐 Backend & Data</b></summary>
+<summary><b>Backend & Data</b></summary>
 <br>
 
 <p align="center">
@@ -60,7 +49,7 @@
 </details>
 
 <details open>
-<summary><b>⚡ Development Tools</b></summary>
+<summary><b>Development Tools</b></summary>
 <br>
 
 <p align="center">
@@ -78,39 +67,39 @@
 
 ---
 
-## 🏆 GitHub Analytics & Learning Progress
+## GitHub Analytics & Learning Progress
 
 <div align="center">
 
-### 📊 Contribution Stats
+### Contribution Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopnun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopnun&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=667EEA"/>
 
-### 📈 Activity Graph
+### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulopnun&theme=tokyo-night&hide_border=true&color=667EEA&line=667EEA&point=FFFFFF" />
 
-### 🏅 Achievements
+### Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulopnun&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📜 Certifications & Learning
+## Certifications & Learning
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <h3>🏆 Java Foundations</h3>
+      <h3>Java Foundations</h3>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
       <a href="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=152239">
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <h3>🎖️ Java Training</h3>
+      <h3>Java Training</h3>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
       <a href="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726">
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -123,11 +112,11 @@
 
 ---
 
-## 💼 Skills & Aspirations
+## Skills & Aspirations
 
 <div align="center">
 
-| 🎯 **Focused Learning** | 📱 **Building Experience** | 🚀 **Next Goals** |
+| **Focused Learning** | **Building Experience** | **Next Goals** |
 |:-:|:-:|:-:|
 | **Kotlin Native Android** | **Personal Projects** | **Professional Internships** |
 | **Compose Multiplatform** | **Open Source Contributions** | **Team Collaboration** |
@@ -140,11 +129,11 @@
   
 ---
 
-## 🌟 Featured Projects & Learning
+## Featured Projects & Learning
 
 
 
-### 🏗️ FlowBoard - Project Management App
+### FlowBoard - Project Management App
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Learning](https://img.shields.io/badge/Learning%20Project-4CAF50?style=flat-square)
@@ -159,7 +148,7 @@
 
 ---
 
-### 📧 RenderMail - Backend Learning Project
+### RenderMail - Backend Learning Project
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -174,11 +163,11 @@
 
 ---
 
-### 📝 Notably - Note Management App
+### Notably - Note Management App
 ![Mobile](https://img.shields.io/badge/Mobile%20Development-4CAF50?style=flat-square)
 ![Learning](https://img.shields.io/badge/Student%20Project-FF9800?style=flat-square)
 
-**✍️ Note-taking app with modern mobile practices**
+**Note-taking app with modern mobile practices**
 
 *Learning: Local databases • Cross-platform development • Material Design*
 
@@ -190,7 +179,7 @@
 
 ---
 
-## 🤝 Open to Opportunities
+## Open to Opportunities
 
 I'm a passionate Computer Science student looking for **internships**, **entry-level positions**, and **collaborative projects** in mobile development!
 
@@ -217,29 +206,8 @@ I'm a passionate Computer Science student looking for **internships**, **entry-l
   </tr>
 </table>
 
-## A Fragment of Code I'm Proud Of 💡
 
-One piece of code that I'm particularly proud of in FlowBoard is how I handle **dynamic colors for task cards** using Jetpack Compose and Material3:
-
-```kotlin
-colors = CardDefaults.cardColors(
-    containerColor = when {
-        task.isCompleted -> MaterialTheme.colorScheme.surfaceVariant
-        isOverdue -> MaterialTheme.colorScheme.errorContainer
-        else -> MaterialTheme.colorScheme.surface
-    }
-)
-```
-
-I chose this approach because I wanted the UI to be **both functional and visually intuitive**.  
-
-- **Completed tasks** appear in a subtle color (`surfaceVariant`) to indicate they are done.  
-- **Overdue tasks** are highlighted with an alert color (`errorContainer`) so users notice them immediately.  
-- **Pending tasks** keep the default background (`surface`) for consistency and clarity.
-
-This small snippet **brings life to the app**, making it easy for users to **understand the status of their tasks at a glance**. I’m proud of this because it shows how thoughtful UI design can improve usability while keeping the code clean and maintainable.
-
-### 🎯 What I'm Looking For
+### What I'm Looking For
 ```yaml
 Opportunities: Internships, Junior roles, Collaborative projects
 Location: Valencia, Spain 🇪🇸 (Open to remote/relocation)
@@ -252,7 +220,7 @@ Available: Flexible schedule as student
 
 ---
 
-## 🎖️ Community & Recognition
+## Community & Recognition
 
 <div align="center">
 
@@ -264,7 +232,7 @@ Available: Flexible schedule as student
 
 <div align="center">
 
-### 💬 Let's Learn and Build Together!
+### Let's Learn and Build Together!
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -275,7 +243,7 @@ Available: Flexible schedule as student
 
 *"The best mobile apps are born from understanding user needs, not just technical capabilities"*
 
-**🎓 Computer Science Student • 📱 Mobile Development Enthusiast • 🚀 Future Mobile Developer**
+**Computer Science Student • 📱 Mobile Development Enthusiast • Future Mobile Developer**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
