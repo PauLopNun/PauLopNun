@@ -134,7 +134,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Learning](https://img.shields.io/badge/Learning%20Project-4CAF50?style=flat-square)
 
-**🎯 Modern Kanban board for project management**
+**Modern Kanban board for project management**
 
 *Learning: Clean Architecture • State Management • Local Storage • UI/UX Design*
 
@@ -149,7 +149,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**☁️ Email management system with cloud deployment**
+**Email management system with cloud deployment**
 
 *Learning: REST APIs • Cloud deployment • Docker • Backend architecture*
 
@@ -168,7 +168,7 @@
 *Learning: Local databases • Cross-platform development • Material Design*
 
 <a href="https://github.com/PauLopNun/Notably">
-  <img src="https://img.shields.io/badge/📖%20View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
