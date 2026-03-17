@@ -65,18 +65,6 @@
 
 </details>
 
----
-
-## GitHub Analytics & Learning Progress
-
-<div align="center">
-
-### Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulopnun&theme=tokyo-night&hide_border=true&color=667EEA&line=667EEA&point=FFFFFF" />
-
-### Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulopnun&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Commit)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
