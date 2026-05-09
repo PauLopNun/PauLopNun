@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Pau&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Intern%20%7C%20Spring%20Boot%20%7C%20Java&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Pau&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Development%20%7C%20Spring%20Boot%20%7C%20Java&descAlignY=51&descAlign=50)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**Pau Lopez Nunez** - Computer Science student and **Backend Developer Intern at GFT Technologies**, currently focused on building backend services with **Java, Spring Boot, JPA/Hibernate, JWT security, clean architecture and team-based delivery practices**.
+**Pau Lopez Nunez** - Computer Science student focused on backend development, currently building practical experience with **Java, Spring Boot, JPA/Hibernate, JWT security, clean architecture and team-based delivery practices**.
 
 I enjoy backend systems where business rules are clear, persistence is intentional, APIs are well documented, and tests protect the important behaviour.
 
@@ -29,13 +29,13 @@ I enjoy backend systems where business rules are clear, persistence is intention
 
 <div align="center">
 
-| **Current Role** | **Company** | **Location** |
+| **Current Focus** | **Main Stack** | **Location** |
 |:-:|:-:|:-:|
-| **Backend Developer Intern** | **GFT Technologies** | **Valencia area, Spain** |
+| **Backend development internship** | **Java & Spring Boot** | **Valencia area, Spain** |
 
 | **Main Focus** | **Training Path** | **Working Style** |
 |:-:|:-:|:-:|
-| **Java & Spring Boot backend** | **GFT backend programme** | **Clean, tested, team-friendly code** |
+| **Java & Spring Boot backend** | **Practical backend training** | **Clean, tested, team-friendly code** |
 | **REST APIs and persistence** | **Security, JPA and architecture** | **GitHub workflow and code reviews** |
 | **Microservices and events** | **DDD, TDD and SDD** | **Readable documentation and contracts** |
 
@@ -120,7 +120,7 @@ I enjoy backend systems where business rules are clear, persistence is intention
     </td>
     <td align="center">
       <h3>Backend Training</h3>
-      <img src="https://img.shields.io/badge/GFT%20Technologies-1F4E79?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Backend%20Training-1F4E79?style=for-the-badge" /><br>
       <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot%20%7C%20Architecture-667eea?style=for-the-badge" />
     </td>
   </tr>
@@ -134,7 +134,7 @@ I enjoy backend systems where business rules are clear, persistence is intention
 
 <div align="center">
 
-| **Working With** | **Applying at GFT** | **Next Goals** |
+| **Working With** | **Applying in Practice** | **Next Goals** |
 |:-:|:-:|:-:|
 | **Java & Spring Boot** | **REST APIs and service layers** | **Production backend systems** |
 | **JPA / Hibernate** | **Persistence and transactions** | **Microservices architecture** |
@@ -155,7 +155,7 @@ I enjoy backend systems where business rules are clear, persistence is intention
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Distributed supply chain simulation built during the GFT backend workshop.**
+**Distributed supply chain simulation built during an enterprise backend workshop.**
 
 *Focus: Microservices - RabbitMQ event contracts - DDD - Hexagonal Architecture - Team workflow*
 
@@ -218,7 +218,7 @@ I enjoy backend systems where business rules are clear, persistence is intention
 
 ## Open to Opportunities
 
-I'm a Computer Science student currently growing as a **Backend Developer Intern at GFT Technologies**, open to **junior backend roles**, **internships**, and **collaborative projects** around Java, Spring Boot and distributed systems.
+I'm a Computer Science student currently gaining practical backend experience through an internship and personal projects, open to **junior backend roles**, **trainee roles**, and **collaborative projects** around Java, Spring Boot and distributed systems.
 
 <table>
   <tr>
@@ -245,8 +245,8 @@ I'm a Computer Science student currently growing as a **Backend Developer Intern
 
 ### What I'm Looking For
 ```yaml
-Current Role: Backend Developer Intern at GFT Technologies
-Opportunities: Junior backend roles, internships, collaborative projects
+Current Focus: Backend development internship and Java/Spring Boot projects
+Opportunities: Junior backend roles, trainee roles, collaborative projects
 Location: Valencia, Spain (open to remote/relocation)
 Interests: Java, Spring Boot, APIs, microservices, distributed systems
 Practices: Clean Code, Hexagonal Architecture, DDD, TDD, SDD
@@ -275,11 +275,11 @@ Available: Flexible schedule as student
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulopnun&color=667eea&style=for-the-badge&label=Profile+Views)
-![Status](https://img.shields.io/badge/Status-Backend%20Developer%20Intern%20%40%20GFT-667eea?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Backend%20Development%20%7C%20Spring%20Boot-667eea?style=for-the-badge)
 
 *"Good backend code makes business rules explicit, testable and ready to evolve."*
 
-**GFT Technologies - Backend Developer Intern**
+**Backend Development - Java & Spring Boot**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
