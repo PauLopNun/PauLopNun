@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Pau&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Springboot%20%7C%20Software%20Developer&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Pau&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Intern%20%7C%20Spring%20Boot%20%7C%20Java&descAlignY=51&descAlign=62)
 
 </div>
 
@@ -13,63 +13,92 @@
 
 ---
 
-## Technology Stack
+## About Me
 
-<details open>
-<summary><b>Software Development</b></summary>
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio&theme=dark" />
-</p>
+**Pau Lopez Nunez** - Computer Science student and **Backend Developer Intern at GFT Technologies**, currently focused on building backend services with **Java, Spring Boot, JPA/Hibernate, JWT security, clean architecture and team-based delivery practices**.
 
-**Modern KMP Stack (Learning)**
-- **Compose Multiplatform 1.8.0** - Stable cross-platform UI
-- **Kotlin Multiplatform Mobile** - Shared business logic
-- **Jetpack Compose** - Modern Android UI toolkit
-- **Material Design 3** - Latest design system
-
-</details>
-
-<details open>
-<summary><b>Backend & Data</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,docker,aws,postgresql,mysql,firebase&theme=dark" />
-</p>
-
-**Technologies & Libraries**
-- **Networking**: Ktor 3.2.3, REST APIs, JSON serialization
-- **Database**: SQLDelight 2.1.0, Room, Firebase Firestore
-- **Dependency Injection**: Koin for KMP
-- **Cloud**: AWS basics, Firebase, Render deployment
-- **Backend**: Python, Node.js foundations
-
-</details>
-
-<details open>
-<summary><b>Development Tools</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,gradle&theme=dark" />
-</p>
-
-**Development Environment**
-- **IDEs**: Android Studio, VS Code, IntelliJ IDEA
-- **Version Control**: Git, GitHub workflow
-- **Build Tools**: Gradle, Gradle Version Catalogs
-- **Design**: Figma for UI/UX mockups
-- **Libraries**: [Klibs.io](https://klibs.io) for KMP library discovery
-
-</details>
+I enjoy backend systems where business rules are clear, persistence is intentional, APIs are well documented, and tests protect the important behaviour.
 
 </div>
 
 ---
 
-## Certifications & Learning
+## Professional Snapshot
+
+<div align="center">
+
+| **Current Role** | **Company** | **Location** |
+|:-:|:-:|:-:|
+| **Backend Developer Intern** | **GFT Technologies** | **Valencia area, Spain** |
+
+| **Main Focus** | **Training Path** | **Working Style** |
+|:-:|:-:|:-:|
+| **Java & Spring Boot backend** | **GFT backend programme** | **Clean, tested, team-friendly code** |
+| **REST APIs and persistence** | **Security, JPA and architecture** | **GitHub workflow and code reviews** |
+| **Microservices and events** | **DDD, TDD and SDD** | **Readable documentation and contracts** |
+
+</div>
+
+---
+
+## Technology Stack
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark" />
+</p>
+
+**Java & Spring Ecosystem**
+- **Java 21** - Main backend language
+- **Spring Boot** - REST APIs, application services and production-oriented configuration
+- **Spring Data JPA + Hibernate** - ORM, repositories, transactions and entity modelling
+- **Spring Security + JWT** - Authentication, authorization, refresh tokens and endpoint protection
+- **Maven & Gradle** - Dependency management and build automation
+
+</details>
+
+<details open>
+<summary><b>Architecture, Data & Messaging</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,aws,rabbitmq&theme=dark" />
+</p>
+
+**Backend Practices**
+- **Architecture**: Hexagonal Architecture, DDD, layered architecture, ports and adapters
+- **Persistence**: PostgreSQL, MySQL, H2, Liquibase, Flyway
+- **Messaging**: RabbitMQ, event contracts, distributed workflows
+- **API Design**: REST, OpenAPI / Swagger, DTOs, validation and global exception handling
+- **Cloud & Containers**: Docker, Docker Compose, AWS basics, Render deployment
+
+</details>
+
+<details open>
+<summary><b>Testing & Development Workflow</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea&theme=dark" />
+</p>
+
+**Quality & Collaboration**
+- **Testing**: JUnit 5, Mockito, AssertJ, Testcontainers, integration tests
+- **Practices**: Clean Code, SOLID, TDD, SDD, code reviews
+- **Version Control**: Git, GitHub workflow, branches, pull requests and CI pipelines
+- **Documentation**: README files, API contracts, architecture notes and team conventions
+- **Tools**: IntelliJ IDEA, VS Code, Android Studio, Figma
+
+</details>
+
+---
+
+## Certifications, Training & Learning
 
 <div align="center">
 
@@ -89,6 +118,11 @@
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </td>
+    <td align="center">
+      <h3>Backend Training</h3>
+      <img src="https://img.shields.io/badge/GFT%20Technologies-1F4E79?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot%20%7C%20Architecture-667eea?style=for-the-badge" />
+    </td>
   </tr>
 </table>
 
@@ -96,76 +130,95 @@
 
 ---
 
-## Skills & Aspirations
+## Backend Focus
 
 <div align="center">
 
-| **Focused Learning** | **Building Experience** | **Next Goals** |
+| **Working With** | **Applying at GFT** | **Next Goals** |
 |:-:|:-:|:-:|
-| **Kotlin Native Android** | **Personal Projects** | **Professional Internships** |
-| **Compose Multiplatform** | **Open Source Contributions** | **Team Collaboration** |
-| **Mobile Architecture** | **UI/UX Implementation** | **Production Apps** |
-| **API Integration** | **Database Management** | **Code Reviews** |
-| **Testing Strategies** | **Version Control** | **Mentorship** |
+| **Java & Spring Boot** | **REST APIs and service layers** | **Production backend systems** |
+| **JPA / Hibernate** | **Persistence and transactions** | **Microservices architecture** |
+| **Spring Security / JWT** | **Authentication and authorization** | **Secure API design** |
+| **Hexagonal Architecture** | **Clean Code, SOLID and DDD** | **Better domain modelling** |
+| **JUnit, Mockito, Testcontainers** | **TDD / SDD and CI workflows** | **Robust automated testing** |
 
 </div>
 
-  
 ---
 
-## Featured Projects & Learning
+## Featured Projects
 
+### Supply Chain Simulator - Distributed Backend Workshop
+![Java](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**Distributed supply chain simulation built during the GFT backend workshop.**
 
-### FlowBoard - Project Management App
+*Focus: Microservices - RabbitMQ event contracts - DDD - Hexagonal Architecture - Team workflow*
+
+<a href="https://github.com/PauLopNun/supply-chain-simulator-workshop">
+  <img src="https://img.shields.io/badge/View%20Architecture-667eea?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### Transport Service - Supply Chain Microservice
+![Java](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Events-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-Domain%20Driven-764ba2?style=flat-square)
+![Hexagonal](https://img.shields.io/badge/Architecture-Hexagonal-667eea?style=flat-square)
+
+**Transport microservice responsible for truck registration, delivery lifecycle events and messaging contracts.**
+
+*Focus: Event-driven backend - Messaging contracts - Domain isolation - Service boundaries*
+
+<a href="https://github.com/PauLopNun/transport-service">
+  <img src="https://img.shields.io/badge/View%20Microservice-667eea?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### Banking API - Spring Boot Backend
+![Java](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-Migrations-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Production-oriented REST API for banking operations built with Spring Boot and Java 21.**
+
+*Focus: JWT auth - Refresh tokens - Transfers - Rate limiting - Flyway migrations - Automated tests*
+
+<a href="https://github.com/PauLopNun/banking-api">
+  <img src="https://img.shields.io/badge/View%20Backend-667eea?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### FlowBoard - Collaborative Project Management App
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning%20Project-4CAF50?style=flat-square)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real%20Time-4CAF50?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Modern Kanban board for project management**
+**Full-stack Android and backend application for collaborative documents, tasks, workspaces and real-time chat.**
 
-*Learning: Clean Architecture • State Management • Local Storage • UI/UX Design*
+*Focus: REST APIs - WebSockets - JWT auth - PostgreSQL - Clean Architecture - Render deployment*
 
 <a href="https://github.com/PauLopNun/FlowBoard">
-  <img src="https://img.shields.io/badge/🔗%20View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
----
-
-### RenderMail - Backend Learning Project
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Email management system with cloud deployment**
-
-*Learning: REST APIs • Cloud deployment • Docker • Backend architecture*
-
-<a href="https://github.com/paulopnun/RenderMail">
-  <img src="https://img.shields.io/badge/🔗%20View%20Backend-667eea?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### Notably - Note Management App
-![Mobile](https://img.shields.io/badge/Mobile%20Development-4CAF50?style=flat-square)
-![Learning](https://img.shields.io/badge/Student%20Project-FF9800?style=flat-square)
-
-**Note-taking app with modern mobile practices**
-
-*Learning: Local databases • Cross-platform development • Material Design*
-
-<a href="https://github.com/PauLopNun/Notably">
-  <img src="https://img.shields.io/badge/%20View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
 ## Open to Opportunities
 
-I'm a passionate Computer Science student looking for **internships**, **entry-level positions**, and **collaborative projects** in mobile development!
+I'm a Computer Science student currently growing as a **Backend Developer Intern at GFT Technologies**, open to **junior backend roles**, **internships**, and **collaborative projects** around Java, Spring Boot and distributed systems.
 
 <table>
   <tr>
@@ -190,17 +243,16 @@ I'm a passionate Computer Science student looking for **internships**, **entry-l
   </tr>
 </table>
 
-
 ### What I'm Looking For
 ```yaml
-Opportunities: Internships, Junior roles, Collaborative projects
-Location: Valencia, Spain 🇪🇸 (Open to remote/relocation)
-Interests: Mobile development, Cross-platform solutions
-Time Zone: CET/CEST (UTC+1/+2)
+Current Role: Backend Developer Intern at GFT Technologies
+Opportunities: Junior backend roles, internships, collaborative projects
+Location: Valencia, Spain (open to remote/relocation)
+Interests: Java, Spring Boot, APIs, microservices, distributed systems
+Practices: Clean Code, Hexagonal Architecture, DDD, TDD, SDD
 Languages: Spanish (Native) | English (Professional C1)
 Available: Flexible schedule as student
 ```
-</div>
 
 ---
 
@@ -216,18 +268,18 @@ Available: Flexible schedule as student
 
 <div align="center">
 
-### Let's Learn and Build Together!
+### Let's Build Reliable Backends
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulopnun&color=667eea&style=for-the-badge&label=Profile+Views)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Growing-667eea?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Backend%20Developer%20Intern%20%40%20GFT-667eea?style=for-the-badge)
 
-*"The best mobile apps are born from understanding user needs, not just technical capabilities"*
+*"Good backend code makes business rules explicit, testable and ready to evolve."*
 
-**GFT Trainee Backend Developer**
+**GFT Technologies - Backend Developer Intern**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
