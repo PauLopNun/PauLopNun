@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**Pau Lopez Nunez** - Computer Science student focused on backend development, currently building practical experience with **Java, Spring Boot, JPA/Hibernate, JWT security, clean architecture and team-based delivery practices**.
+**Pau Lopez Nunez** - Backend developer focused on Java and Spring Boot, with hands-on experience in **JPA/Hibernate, JWT security, clean architecture, microservices and team-based delivery practices**.
 
 I enjoy backend systems where business rules are clear, persistence is intentional, APIs are well documented, and tests protect the important behaviour.
 
@@ -31,7 +31,7 @@ I enjoy backend systems where business rules are clear, persistence is intention
 
 | **Current Focus** | **Main Stack** | **Location** |
 |:-:|:-:|:-:|
-| **Backend development internship** | **Java & Spring Boot** | **Valencia area, Spain** |
+| **Junior Backend Developer** | **Java & Spring Boot** | **Valencia area, Spain** |
 
 | **Main Focus** | **Training Path** | **Working Style** |
 |:-:|:-:|:-:|
@@ -98,30 +98,55 @@ I enjoy backend systems where business rules are clear, persistence is intention
 
 ---
 
-## Certifications, Training & Learning
+## Certifications & Learning
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <h3>Java Foundations</h3>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
-      <a href="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=152239">
+      <h3>Domina Java</h3>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+      <a href="https://www.linkedin.com/learning/certificates/3f0a371fd1e01a95119164b9161fd6a87b4523b9c083769d4db3cc1e4ad73de3">
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <h3>Java Training</h3>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
-      <a href="https://learn.oracle.com/education/html/ols4/php/decodeImg.php?file=79726">
+      <h3>JUnit Testing</h3>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+      <a href="https://www.linkedin.com/learning/certificates/b9f2314e09566341860becb61b763b8f26ef6d12360f26b04c83bb48989f7801">
         <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <h3>Backend Training</h3>
-      <img src="https://img.shields.io/badge/Backend%20Training-1F4E79?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot%20%7C%20Architecture-667eea?style=for-the-badge" />
+      <h3>Spring Boot esencial</h3>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+      <a href="https://www.linkedin.com/learning/certificates/cae2b2be74934641b0af51bd7c854dc6c830f7fc6808f4e16074df6b743a57de">
+        <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Docker esencial</h3>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+      <a href="https://www.linkedin.com/learning/certificates/a5475ffd7d47d5b0e7f26b6a0fe9b47c7c42e662b7e763f5cf0f9b016fcb81f2">
+        <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>MCP: Advanced Topics</h3>
+      <img src="https://img.shields.io/badge/Anthropic-1F4E79?style=for-the-badge&logoColor=white" /><br>
+      <a href="https://verify.skilljar.com/c/qzn7jaj8av76">
+        <img src="https://img.shields.io/badge/View%20Certificate-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>Unity Junior Programmer</h3>
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
+      <a href="https://www.credly.com/badges/386504b3-0be1-4fda-b676-d2652e352b63/public_url">
+        <img src="https://img.shields.io/badge/View%20Badge-FF6B35?style=for-the-badge&logo=credly&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -218,7 +243,7 @@ I enjoy backend systems where business rules are clear, persistence is intention
 
 ## Open to Opportunities
 
-I'm a Computer Science student currently gaining practical backend experience through an internship and personal projects, open to **junior backend roles**, **trainee roles**, and **collaborative projects** around Java, Spring Boot and distributed systems.
+Junior backend developer open to **junior backend roles** and **collaborative projects** around Java, Spring Boot and distributed systems.
 
 <table>
   <tr>
@@ -245,13 +270,12 @@ I'm a Computer Science student currently gaining practical backend experience th
 
 ### What I'm Looking For
 ```yaml
-Current Focus: Backend development internship and Java/Spring Boot projects
-Opportunities: Junior backend roles, trainee roles, collaborative projects
-Location: Valencia, Spain (open to remote/relocation)
-Interests: Java, Spring Boot, APIs, microservices, distributed systems
+Role: Junior Backend Developer
+Opportunities: Junior backend roles, collaborative projects
+Location: Valencia, Spain (open to remote)
+Stack: Java, Spring Boot, APIs, microservices, distributed systems
 Practices: Clean Code, Hexagonal Architecture, DDD, TDD, SDD
 Languages: Spanish (Native) | English (Professional C1)
-Available: Flexible schedule as student
 ```
 
 ---
@@ -275,7 +299,7 @@ Available: Flexible schedule as student
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulopnun&color=667eea&style=for-the-badge&label=Profile+Views)
-![Status](https://img.shields.io/badge/Status-Backend%20Development%20%7C%20Spring%20Boot-667eea?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work%20%7C%20Junior%20Backend-667eea?style=for-the-badge)
 
 *"Good backend code makes business rules explicit, testable and ready to evolve."*
 
