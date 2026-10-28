@@ -50,20 +50,6 @@ Before that I built **microservices with hexagonal architecture, DDD and RabbitM
 
 ---
 
-## Journey
-
-<table>
-<tr>
-<td align="center" width="20%" valign="top"><img src="https://img.shields.io/badge/2023-a99fdc?style=for-the-badge" /><br><br><b>Economics</b><br><sub>Universitat de València<br>year taught in English</sub></td>
-<td align="center" width="20%" valign="top"><img src="https://img.shields.io/badge/2024-9b8fd6?style=for-the-badge" /><br><br><b>Switched to software</b><br><sub>DAM degree<br>at IES La Sénia</sub></td>
-<td align="center" width="20%" valign="top"><img src="https://img.shields.io/badge/2025-8a7fd0?style=for-the-badge" /><br><br><b>First internship</b><br><sub>Full Stack · Feria Valencia<br>Hacktoberfest contributor</sub></td>
-<td align="center" width="20%" valign="top"><img src="https://img.shields.io/badge/Early_2026-764ba2?style=for-the-badge" /><br><br><b>Backend & Cloud</b><br><sub>Backend internship · GFT<br>AWS GameDay national phase</sub></td>
-<td align="center" width="20%" valign="top"><img src="https://img.shields.io/badge/Late_2026-667eea?style=for-the-badge" /><br><br><b>First junior role</b><br><sub>DAM completed<br>Cloud Computing specialization</sub></td>
-</tr>
-</table>
-
----
-
 ## Experience
 
 <table>
