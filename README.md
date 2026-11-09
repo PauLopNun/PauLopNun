@@ -38,8 +38,8 @@ Before that I built **microservices with hexagonal architecture, DDD and RabbitM
 - Cloud Computing specialization (**AWS**)
 
 **Languages**
-- Spanish — native
-- English — professional (C1)
+- Spanish · native
+- English · professional (C1)
 
 **Based in**
 - Valencia, Spain · hybrid / remote
@@ -219,7 +219,7 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 | [**S3 Tables Lab**](https://github.com/PauLopNun/practica-s3tables) | Reproducible local lab to work with Amazon S3 Tables (Apache Iceberg) and query them with Athena using the real AWS CLI commands | LocalStack · Iceberg · Python · Bash |
 | [**Markdown to PDF Workflow**](https://github.com/PauLopNun/markdown-pdf-workflow) | One-command conversion of Markdown into professional PDFs with Eisvogel templates | Shell · PowerShell · Pandoc |
 | [**RenderMail**](https://github.com/PauLopNun/RenderMail) | Responsive email campaign system built during my Feria Valencia internship | MJML · Node.js · Docker |
-| [**Cloud course labs**](https://github.com/PauLopNun/curso-servicios-nube) | Labs from the Cloud Computing specialization I'm currently studying | AWS · Boto3 · Bash |
+| [**Cloud course labs**](https://github.com/PauLopNun/curso-servicios-nube) | Labs from the Cloud Computing specialization I'm studying: VPC networking, EC2, S3, Blue/Green and Canary with ELB, CI/CD to S3 | AWS · Boto3 · Bash |
 
 ---
 
@@ -230,7 +230,7 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 <td width="50%" valign="top">
 
 **Cloud & Infrastructure**
-- **AWS GameDay — National Championship** <sub>Generalitat Valenciana · qualified from the regional phase</sub>
+- **AWS GameDay National Championship** <sub>Generalitat Valenciana · qualified from the regional phase</sub>
 - [Introduction to Kubernetes](https://www.datacamp.com/completed/statement-of-accomplishment/course/ea0d57c7cf07e5c6a1b6c1a84521659630920b56) <sub>DataCamp</sub>
 - [Introduction to Apache Kafka](https://www.datacamp.com/completed/statement-of-accomplishment/course/372aa0409115cad8b97352cf3c6ca294681f24e6) <sub>DataCamp</sub>
 - [Docker esencial](https://www.linkedin.com/learning/certificates/a5475ffd7d47d5b0e7f26b6a0fe9b47c7c42e662b7e763f5cf0f9b016fcb81f2) <sub>LinkedIn</sub>
@@ -261,7 +261,10 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 
 **Other**
 - [Unity Junior Programmer](https://www.credly.com/badges/386504b3-0be1-4fda-b676-d2652e352b63/public_url) <sub>Credly</sub>
-- Hacktoberfest contributor <sub>2024 · 2025</sub>
+- Hacktoberfest contributor <sub>2024 · 2025 · 2026</sub>
+- [Hacktoberfest 2026 Open-Source AI Challenge](https://dev.to/paulopnun/git-afterlife-i-held-a-seance-for-the-original-flaskpy-36o5) <sub>DEV · <a href="https://github.com/PauLopNun/git-afterlife">git-afterlife</a></sub>
+
+<a href="https://dev.to/paulopnun/git-afterlife-i-held-a-seance-for-the-original-flaskpy-36o5"><img src="assets/hacktoberfest-2026.png" width="90" alt="Hacktoberfest 2026 badge" /></a>
 
 </td>
 </tr>
@@ -272,9 +275,6 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 ## GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PauLopNun&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauLopNun&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" />
 
 <img width="82%" src="https://streak-stats.demolab.com?user=PauLopNun&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
