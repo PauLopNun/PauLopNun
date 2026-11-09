@@ -230,7 +230,7 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 <td width="50%" valign="top">
 
 **Cloud & Infrastructure**
-- **AWS GameDay National Championship** <sub>Generalitat Valenciana · qualified from the regional phase</sub>
+- [**AWS GameDay National Championship**](https://www.linkedin.com/in/paulopnun/overlay/1780588150351/single-media-viewer/?profileId=ACoAAFQ192oByHV3fzXhGqN4CYDsx3qbSU0ta1s) <sub>Generalitat Valenciana · qualified from the regional phase</sub>
 - [Introduction to Kubernetes](https://www.datacamp.com/completed/statement-of-accomplishment/course/ea0d57c7cf07e5c6a1b6c1a84521659630920b56) <sub>DataCamp</sub>
 - [Introduction to Apache Kafka](https://www.datacamp.com/completed/statement-of-accomplishment/course/372aa0409115cad8b97352cf3c6ca294681f24e6) <sub>DataCamp</sub>
 - [Docker esencial](https://www.linkedin.com/learning/certificates/a5475ffd7d47d5b0e7f26b6a0fe9b47c7c42e662b7e763f5cf0f9b016fcb81f2) <sub>LinkedIn</sub>
