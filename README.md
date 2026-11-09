@@ -289,7 +289,7 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 
 [![Holopin Badges](https://holopin.me/paulopnun)](https://holopin.io/@paulopnun)
 
-<a href="https://dev.to/paulopnun/git-afterlife-i-held-a-seance-for-the-original-flaskpy-36o5"><img src="assets/hacktoberfest-2026.png" width="110" alt="Hacktoberfest 2026 badge" /></a>
+[![Hacktoberfest 2026 stickers](assets/hacktoberfest-2026-stickers.png)](https://hacktoberfest.com)
 
 </div>
 
