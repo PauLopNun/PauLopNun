@@ -285,11 +285,6 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/PauLopNun/PauLopNun/output/github-snake-dark.svg" />
 </picture>
 
-<br><br>
-
-[![Holopin Badges](https://holopin.me/paulopnun)](https://holopin.io/@paulopnun)
-
-[![Hacktoberfest 2026 stickers](assets/hacktoberfest-2026-stickers.png)](https://hacktoberfest.com)
 
 </div>
 
