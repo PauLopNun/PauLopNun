@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paulopnun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulopnun)
-[![Portfolio](https://img.shields.io/badge/Portfolio-paulopnun.github.io-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://paulopnun.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-paulopez.dev-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://paulopez.dev)
 [![Email](https://img.shields.io/badge/Email-paulopeznunez%40gmail.com-764ba2?style=flat-square&logo=gmail&logoColor=white)](mailto:paulopeznunez@gmail.com)
 [![Followers](https://img.shields.io/github/followers/PauLopNun?style=flat-square&logo=github&label=Followers&color=24292f)](https://github.com/PauLopNun)
 
