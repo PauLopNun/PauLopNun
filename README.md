@@ -249,10 +249,12 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 <td width="50%" valign="top">
 
 **AI-assisted Development**
+- [Building AI Agents with MongoDB](https://www.credly.com/badges/2d0214fb-41dd-49c0-9199-3a858dffa787/public_url) <sub>MongoDB</sub>
 - [MCP: Advanced Topics](https://verify.skilljar.com/c/qzn7jaj8av76) <sub>Anthropic</sub>
 - [Model Context Protocol](https://verify.skilljar.com/c/4ovzww7emfpt) <sub>Anthropic</sub>
 - [Claude Code in Action](https://verify.skilljar.com/c/rcdgxoecp9as) <sub>Anthropic</sub>
 - [Claude Code 101](https://verify.skilljar.com/c/cuj7gspni8ph) <sub>Anthropic</sub>
+- [Introduction to Claude Cowork](https://verify.skilljar.com/c/8oeiym3omi3k) <sub>Anthropic</sub>
 - [Claude 101](https://verify.skilljar.com/c/372zuzsmuc89) <sub>Anthropic</sub>
 - [Software Development with Claude Code](https://www.datacamp.com/completed/statement-of-accomplishment/course/3e013061bf2577a78bd794c8a7e2981e21d2ad23) <sub>DataCamp</sub>
 
@@ -263,8 +265,6 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 - [Unity Junior Programmer](https://www.credly.com/badges/386504b3-0be1-4fda-b676-d2652e352b63/public_url) <sub>Credly</sub>
 - Hacktoberfest contributor <sub>2024 · 2025 · 2026</sub>
 - [Hacktoberfest 2026 Open-Source AI Challenge](https://dev.to/paulopnun/git-afterlife-i-held-a-seance-for-the-original-flaskpy-36o5) <sub>DEV · <a href="https://github.com/PauLopNun/git-afterlife">git-afterlife</a></sub>
-
-<a href="https://dev.to/paulopnun/git-afterlife-i-held-a-seance-for-the-original-flaskpy-36o5"><img src="assets/hacktoberfest-2026.png" width="90" alt="Hacktoberfest 2026 badge" /></a>
 
 </td>
 </tr>
@@ -288,6 +288,8 @@ Dev and prod profiles (H2 / PostgreSQL), multi-stage Docker image and GitHub Act
 <br><br>
 
 [![Holopin Badges](https://holopin.me/paulopnun)](https://holopin.io/@paulopnun)
+
+<a href="https://dev.to/paulopnun/git-afterlife-i-held-a-seance-for-the-original-flaskpy-36o5"><img src="assets/hacktoberfest-2026.png" width="110" alt="Hacktoberfest 2026 badge" /></a>
 
 </div>
 
