@@ -21,6 +21,23 @@ jobs:
             dist/github-snake.svg?color_snake=#3b2466&color_dots=#ebedf0,#cdd3f8,#9da6ee,#7b6ad4,#764ba2
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#e2d2ff&color_dots=#161b22,#2b2f6b,#43449a,#6a5fd0,#9f7aea
 
+      - name: Paint the progress bar with the header gradient
+        run: |
+          sudo python3 - dist/*.svg <<'PY'
+          import re, sys, pathlib
+          GRAD = ('<defs><linearGradient id="bar" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="{w}" y2="0">'
+                  '<stop offset="0" stop-color="#667eea"/><stop offset="1" stop-color="#764ba2"/></linearGradient></defs>')
+          for p in map(pathlib.Path, sys.argv[1:]):
+              s = p.read_text()
+              ends = [float(x) + float(w) for w, x in re.findall(r'<rect class="u [^"]*" height="[\d.]+" width="([\d.]+)" x="([\d.]+)"', s)]
+              if not ends:
+                  continue
+              s = re.sub(r'(\.u\.u\w+\{)fill:var\(--c\d\);', r'\1', s)
+              s = s.replace('.u{', '.u{fill:url(#bar);', 1)
+              s = re.sub(r'(<svg[^>]*>)', lambda m: m.group(1) + GRAD.format(w=round(max(ends), 1)), s, count=1)
+              p.write_text(s)
+          PY
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
